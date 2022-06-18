@@ -3,4 +3,4 @@ echo "School"
 =======
 echo "School"
 >>>>>>> update_script
-"The school is open!"
+echo "The school is open!"
